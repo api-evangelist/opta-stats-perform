@@ -1,0 +1,117 @@
+aid: opta-stats-perform
+name: Stats Perform
+description: >-
+  Stats Perform is a global sports data, AI, and technology company formed by
+  the 2019 merger of Stats LLC and the Perform Group. The company owns and
+  operates the Opta brand, the de facto standard for granular football
+  (soccer) event data, and supplies live data, advanced metrics, predictive
+  models, video, graphics, and AI-powered content to media broadcasters,
+  sportsbooks, fantasy operators, professional clubs, leagues, governing
+  bodies, and brands. Its product portfolio is organised around three
+  customer segments — Media & Tech, Betting & Fantasy, and Team Performance
+  — and exposes data and AI capabilities through a family of Opta-branded
+  products including Opta Feeds (XML/JSON sports data feeds), Opta Live
+  (live event data), Opta Stream (low-latency push), Opta Vision
+  (computer-vision tracking), Opta Predictions (probability models), Opta
+  Points (player ratings), Opta Pulse (event commentary), Opta Stories
+  (auto-generated narratives), Opta Search (natural-language sports
+  search), Opta Graphics (broadcast graphics), and OptaAI Studio (AI
+  content tooling). Access to Opta data and APIs is partner-gated:
+  prospective customers must contract through Stats Perform sales, and
+  developer documentation, schemas, and reference material are delivered
+  through a private customer portal rather than a public developer area.
+  Stats Perform also operates StatsBomb's competitors The Analyst as a
+  public-facing editorial property, and runs the annual Opta Forum for
+  customers and analysts.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Sports Data
+  - Sports AI
+  - Football Data
+  - Soccer Data
+  - Opta
+  - Live Data
+  - Event Data
+  - Player Tracking
+  - Computer Vision
+  - Predictive Models
+  - Betting Data
+  - Fantasy Data
+  - Broadcast Graphics
+  - Media
+  - Team Performance
+  - Scouting
+url: https://raw.githubusercontent.com/api-evangelist/opta-stats-perform/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.statsperform.com
+  - type: Opta
+    url: https://www.statsperform.com/opta/
+  - type: OptaFeeds
+    url: https://www.statsperform.com/opta-feeds/
+  - type: OptaLive
+    url: https://www.statsperform.com/opta-live/
+  - type: OptaStream
+    url: https://www.statsperform.com/opta-stream/
+  - type: OptaVision
+    url: https://www.statsperform.com/opta-vision/
+  - type: OptaPredictions
+    url: https://www.statsperform.com/opta-predictions/
+  - type: OptaPoints
+    url: https://www.statsperform.com/opta-points/
+  - type: OptaPulse
+    url: https://www.statsperform.com/opta-pulse/
+  - type: OptaStories
+    url: https://www.statsperform.com/opta-stories/
+  - type: OptaSearch
+    url: https://www.statsperform.com/opta-search/
+  - type: OptaGraphics
+    url: https://www.statsperform.com/opta-graphics/
+  - type: OptaAIStudio
+    url: https://www.statsperform.com/optaai-studio/
+  - type: ArtificialIntelligence
+    url: https://www.statsperform.com/artificial-intelligence/
+  - type: MediaAndTech
+    url: https://www.statsperform.com/media-tech/
+  - type: BettingAndFantasy
+    url: https://www.statsperform.com/betting-fantasy/
+  - type: TeamPerformance
+    url: https://www.statsperform.com/team-performance/performance-solutions-for-football/
+  - type: DynamicStatsAPI
+    url: https://www.statsperform.com/betting-fantasy/betting-content/dynamic-stats-api/
+  - type: Broadcast
+    url: https://www.statsperform.com/broadcast/
+  - type: Integrity
+    url: https://www.statsperform.com/integrity/
+  - type: CustomerSupport
+    url: https://www.statsperform.com/customer-support/
+  - type: Contact
+    url: https://www.statsperform.com/contact/
+  - type: Leadership
+    url: https://www.statsperform.com/leadership/
+  - type: Careers
+    url: https://www.statsperform.com/careers/
+  - type: About
+    url: https://www.statsperform.com/about/
+  - type: News
+    url: https://www.statsperform.com/news-press/
+  - type: PartnerProgram
+    url: https://www.statsperform.com/partnership-program/
+  - type: TheAnalyst
+    url: https://theanalyst.com
+  - type: GitHub
+    url: https://github.com/statsperform
+  - type: Twitter
+    url: https://twitter.com/StatsPerform
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/stats-perform
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
