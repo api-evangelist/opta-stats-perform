@@ -58,7 +58,7 @@ tags:
   - Live Data
   - Event Data
   - Player Tracking
-  - Computer-Vision
+  - Computer Vision
   - Predictive Models
   - Betting Data
   - Fantasy Data
@@ -83,6 +83,7 @@ tags_raw:
   - Media
   - Team Performance
   - Scouting
+  - Computer-Vision
 url: https://raw.githubusercontent.com/api-evangelist/opta-stats-perform/refs/heads/main/apis.yml
 created: '2026-05-25'
 modified: '2026-05-25'
